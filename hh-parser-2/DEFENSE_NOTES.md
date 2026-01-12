@@ -1,0 +1,1 @@
+Использован ExecutorService, Micrometer, VisualVM/JFR, JMH, OpenTelemetry.
